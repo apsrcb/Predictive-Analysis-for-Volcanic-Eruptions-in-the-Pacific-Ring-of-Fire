@@ -27,11 +27,12 @@ This project aims to predict earthquakes and visualize earthquake data using mac
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/rithikabadam/Predictive-Analysis-for-Volcanic-Eruptions-in-the-Pacific-Ring-of-Fire]
+git clone [https://github.com/rithikabadam/Predictive-Analysis-for-Volcanic-Eruptions-in-the-Pacific-Ring-of-Fire] ```
 
 2. Install the required dependencies
 
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt ```
 
 ## Machine Learning
 The data is preprocessed, relevant features are selected, and the dataset is split into training and testing sets. Four machine learning models are trained and their accuracy is evaluated:
