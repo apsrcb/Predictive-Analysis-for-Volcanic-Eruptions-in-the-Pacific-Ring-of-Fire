@@ -38,7 +38,3 @@ The data is preprocessed, relevant features are selected, and the dataset is spl
 
 Test data is loaded from the CSV file `philippinestest.csv`, and volcanic eruption predictions are made using the trained Random Forest classifier. The results are displayed for each data point, indicating whether eruption activity is detected or not.
 
-## Authors
-
-- [@rithikabadam](https://github.com/rithikabadam)
-- [@sindhoori-kaza](https://github.com/sindhoori-kaza)
